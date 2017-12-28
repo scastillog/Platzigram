@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/scastillo/Documentos/AndroidStudioProjects/Platzigram/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v12/values-v12.xml",
+            "map": [
+                {
+                    "source": "/home/scastillo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/987c9a3ff15f75500e26c4f5b99717b1/res/values-v12/values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v12/values-v12.xml",
+            "map": [
+                {
+                    "source": "/Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/res/values-v12/values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        }
+    ]
+}

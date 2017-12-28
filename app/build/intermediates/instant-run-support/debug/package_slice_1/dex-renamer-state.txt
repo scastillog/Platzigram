@@ -1,0 +1,4 @@
+#Mon Nov 27 12:23:17 COT 2017
+base.0=/home/scastillo/Documentos/AndroidStudioProjects/Platzigram/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

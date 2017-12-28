@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.roughike:bottom-bar:2.3.1] /Users/szeph/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/010217e18c7e0f30e5e6ede4f7719a32/AndroidManifest.xml:2:1-12:12
+MERGED from [com.zoonref:simple-view-behavior:1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/simple-view-behavior-1.0.aar/9da5e8c2b7b201666d3e82fe4ffca3f1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/szeph/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/36949e519f4f2df3f82c6ae06112b141/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d4bcb28122907d2b5e0deb2b94261bd6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/66ae6ee9b5f674519f5456c091fb0d21/AndroidManifest.xml:17:1-28:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/631f5b39982a0e05c164bf7d9581aacb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a0b0921f9af205af5cef370e2ac79665/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f3bdba37a5e49daa2c9a88da6534ddc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d5baec5ee0f7ebe64bd8d67328d0a59c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2b2299c78faf3778041e393aca920000/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/529a26b1eb424be6501e1624ffd335f7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4276f2b7ac7ac01dd757627a3da4983b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d604d5793d96dbb32d7d16383b216e0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3d152eb005707fdc3d498bb29e78d7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d868f68c239744ac46c821ed65246be5/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:7:5-40:19
+MERGED from [com.zoonref:simple-view-behavior:1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/simple-view-behavior-1.0.aar/9da5e8c2b7b201666d3e82fe4ffca3f1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.zoonref:simple-view-behavior:1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/simple-view-behavior-1.0.aar/9da5e8c2b7b201666d3e82fe4ffca3f1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/szeph/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/36949e519f4f2df3f82c6ae06112b141/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/szeph/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/36949e519f4f2df3f82c6ae06112b141/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d4bcb28122907d2b5e0deb2b94261bd6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d4bcb28122907d2b5e0deb2b94261bd6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/66ae6ee9b5f674519f5456c091fb0d21/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/66ae6ee9b5f674519f5456c091fb0d21/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/631f5b39982a0e05c164bf7d9581aacb/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/631f5b39982a0e05c164bf7d9581aacb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a0b0921f9af205af5cef370e2ac79665/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a0b0921f9af205af5cef370e2ac79665/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f3bdba37a5e49daa2c9a88da6534ddc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f3bdba37a5e49daa2c9a88da6534ddc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d5baec5ee0f7ebe64bd8d67328d0a59c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d5baec5ee0f7ebe64bd8d67328d0a59c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2b2299c78faf3778041e393aca920000/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2b2299c78faf3778041e393aca920000/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/529a26b1eb424be6501e1624ffd335f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/529a26b1eb424be6501e1624ffd335f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4276f2b7ac7ac01dd757627a3da4983b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4276f2b7ac7ac01dd757627a3da4983b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d604d5793d96dbb32d7d16383b216e0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d604d5793d96dbb32d7d16383b216e0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3d152eb005707fdc3d498bb29e78d7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3d152eb005707fdc3d498bb29e78d7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d868f68c239744ac46c821ed65246be5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d868f68c239744ac46c821ed65246be5/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.zephyrapp.platzigram.LoginActivity
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:14:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.zephyrapp.platzigram.View.CreateAccountActivity
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:parentActivityName
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:22:13-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:24:13-26:50
+	android:value
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:26:17-47
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:25:17-63
+activity#com.zephyrapp.platzigram.ReferenceActivity
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:28:9-31:47
+	android:label
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:30:13-61
+	android:theme
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:29:13-46
+activity#com.zephyrapp.platzigram.View.ContainerActivity
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:32:9-59
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:32:19-57
+activity#com.zephyrapp.platzigram.View.PictureDetailActivity
+ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:parentActivityName
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml:33:19-61
+uses-sdk
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+MERGED from [com.roughike:bottom-bar:2.3.1] /Users/szeph/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/010217e18c7e0f30e5e6ede4f7719a32/AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:2.3.1] /Users/szeph/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/010217e18c7e0f30e5e6ede4f7719a32/AndroidManifest.xml:8:5-10:41
+MERGED from [com.zoonref:simple-view-behavior:1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/simple-view-behavior-1.0.aar/9da5e8c2b7b201666d3e82fe4ffca3f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zoonref:simple-view-behavior:1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/simple-view-behavior-1.0.aar/9da5e8c2b7b201666d3e82fe4ffca3f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/szeph/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/36949e519f4f2df3f82c6ae06112b141/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/szeph/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/36949e519f4f2df3f82c6ae06112b141/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d4bcb28122907d2b5e0deb2b94261bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d4bcb28122907d2b5e0deb2b94261bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/66ae6ee9b5f674519f5456c091fb0d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/66ae6ee9b5f674519f5456c091fb0d21/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/631f5b39982a0e05c164bf7d9581aacb/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/631f5b39982a0e05c164bf7d9581aacb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a0b0921f9af205af5cef370e2ac79665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a0b0921f9af205af5cef370e2ac79665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f3bdba37a5e49daa2c9a88da6534ddc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f3bdba37a5e49daa2c9a88da6534ddc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d5baec5ee0f7ebe64bd8d67328d0a59c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d5baec5ee0f7ebe64bd8d67328d0a59c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2b2299c78faf3778041e393aca920000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2b2299c78faf3778041e393aca920000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/529a26b1eb424be6501e1624ffd335f7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/529a26b1eb424be6501e1624ffd335f7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4276f2b7ac7ac01dd757627a3da4983b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4276f2b7ac7ac01dd757627a3da4983b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d604d5793d96dbb32d7d16383b216e0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d604d5793d96dbb32d7d16383b216e0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3d152eb005707fdc3d498bb29e78d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3d152eb005707fdc3d498bb29e78d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d868f68c239744ac46c821ed65246be5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d868f68c239744ac46c821ed65246be5/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8998db6b3a9e88d2ebb2ad47d80ade65/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d4bcb28122907d2b5e0deb2b94261bd6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d4bcb28122907d2b5e0deb2b94261bd6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/66ae6ee9b5f674519f5456c091fb0d21/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/66ae6ee9b5f674519f5456c091fb0d21/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a0b0921f9af205af5cef370e2ac79665/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a0b0921f9af205af5cef370e2ac79665/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f3bdba37a5e49daa2c9a88da6534ddc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5f3bdba37a5e49daa2c9a88da6534ddc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d5baec5ee0f7ebe64bd8d67328d0a59c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/d5baec5ee0f7ebe64bd8d67328d0a59c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2b2299c78faf3778041e393aca920000/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2b2299c78faf3778041e393aca920000/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/529a26b1eb424be6501e1624ffd335f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/529a26b1eb424be6501e1624ffd335f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4276f2b7ac7ac01dd757627a3da4983b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4276f2b7ac7ac01dd757627a3da4983b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d604d5793d96dbb32d7d16383b216e0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6d604d5793d96dbb32d7d16383b216e0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3d152eb005707fdc3d498bb29e78d7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3d152eb005707fdc3d498bb29e78d7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d868f68c239744ac46c821ed65246be5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d868f68c239744ac46c821ed65246be5/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/16ba0e2bc552ea4900f58f00aa5f8483/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/szeph/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/53bdd6a565f646617444c390f2231030/AndroidManifest.xml:26:13-58

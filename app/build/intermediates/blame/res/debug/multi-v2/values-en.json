@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/Users/szeph/Documents/Android/AndroidStudioProjects/Platzigram/app/src/main/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "7,8,9,4,6,3,10,5,11",
+                        "startColumns": "4,4,4,4,4,4,7,4,4",
+                        "startOffsets": "259,331,378,111,215,59,425,163,488",
+                        "endColumns": "70,45,42,50,42,50,64,50,71",
+                        "endOffsets": "325,372,416,157,253,105,482,209,555"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,172,215,266,309,360,422,473",
+                        "endColumns": "70,45,42,50,42,50,61,50,71",
+                        "endOffsets": "121,167,210,261,304,355,417,468,540"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/scastillo/Documentos/AndroidStudioProjects/Platzigram/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/home/scastillo/Documentos/AndroidStudioProjects/Platzigram/app/src/main/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "7,8,9,4,6,3,10,5,11",
+                        "startColumns": "4,4,4,4,4,4,7,4,4",
+                        "startOffsets": "259,331,378,111,215,59,425,163,488",
+                        "endColumns": "70,45,42,50,42,50,64,50,71",
+                        "endOffsets": "325,372,416,157,253,105,482,209,555"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,172,215,266,309,360,422,473",
+                        "endColumns": "70,45,42,50,42,50,61,50,71",
+                        "endOffsets": "121,167,210,261,304,355,417,468,540"
+                    }
+                }
+            ]
+        }
+    ]
+}
